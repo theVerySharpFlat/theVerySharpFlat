@@ -1,16 +1,28 @@
-### Hi there 👋
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<!--
-**theVerySharpFlat/theVerySharpFlat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! 👋
 
-Here are some ideas to get you started:
+I'm Aiden, nice to meetcha! I'm a sophmore in highschool who enjoys writing code. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=theVerySharpFlat&theme=nord" />
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theVerySharpFlat&theme=nord" />
+
+### Languages
+My preferred language is **c++**, but I have experience in
+
+- C
+- Javascript
+- Typescript
+- Python
+- Shell
+
+### Platforms
+- MacOS
+- Linux (preferred. I develop on Linux most of the time)
+
+### Frameworks
+- Angular
+- React
+- Ionic
+- QT
