@@ -8,6 +8,9 @@ I'm Aiden, nice to meetcha! I'm a sophmore in highschool who enjoys writing code
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=theVerySharpFlat&theme=nord" />
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=theVerySharpFlat&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Languages
 My preferred language is **c++**, but I have experience in
 
