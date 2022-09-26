@@ -29,3 +29,5 @@ My preferred language is **c++**, but I have experience in
 - React
 - Ionic
 - QT
+
+*notSam25 is the best, follow him at GitHub.com/notSam25/*
