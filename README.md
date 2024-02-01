@@ -2,7 +2,7 @@
 
 ### Hi! 👋
 
-I'm Aiden, nice to meetcha! I'm a Junior in highschool who enjoys writing code. 
+I'm Aiden, nice to meetcha! I'm a senior in highschool who enjoys writing code. 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=theVerySharpFlat&theme=nord" />
 
