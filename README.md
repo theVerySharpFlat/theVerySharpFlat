@@ -2,7 +2,7 @@
 
 ### Hi! 👋
 
-I'm Aiden, nice to meetcha! I'm a senior in highschool who enjoys writing code. 
+I'm Aiden, nice to meetcha! I'm CS student at Georgia Tech
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=theVerySharpFlat&theme=nord" />
 
