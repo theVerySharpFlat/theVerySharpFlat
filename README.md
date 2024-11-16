@@ -32,4 +32,4 @@ My preferred language is **c++**, but I have experience in
 - Ionic
 - QT
 
-*notSam25 is...yeah that's it. Follow him at [https://github.com/notSam25/]()*
+*notSam25 is...yeah that's it. Follow him at [https://github.com/notSam25/]([https://github.com/notSam25/)*
